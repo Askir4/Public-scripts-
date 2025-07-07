@@ -6,7 +6,7 @@
 
 ### Übersicht
 
-In diesem Repo lade ich meine Skripts hoch, welche ich, wöhrend ich versuche Powershell zu lernen schreibe, und von denen ich denke, dass auch andere sie benutzen können. Diese werden nicht immer perfekt sein aber egal. Wer sie testen möchte kann dies gerne tun.
+In diesem Repo lade ich meine Skripts hoch, welche ich, während ich versuche Powershell zu lernen schreibe, und von denen ich denke, dass auch andere sie benutzen können. Diese werden nicht immer perfekt sein aber egal. Wer sie testen möchte kann dies gerne tun.
 
 ### Inhalte
 
